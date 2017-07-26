@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome";
+
+
+
+.bus-map {
+  margin-left: 23%;
+  height: 200px;
+  width: 300px;
+ }
+
+.center-it { text-align: center; }
+
+#pad-top-35 { padding-top: 35px; }
+
+
+
